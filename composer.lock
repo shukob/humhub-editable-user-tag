@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ed86f9e2eaeb4cad5b9e74b55f5b5401",
+    "packages": [
+        {
+            "name": "muhiddingithub/yii2-autocomplete",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/muhiddingithub/yii2-autocomplete.git",
+                "reference": "96d2253d1153bc5797301e116f3191ec6d684174"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/muhiddingithub/yii2-autocomplete/zipball/96d2253d1153bc5797301e116f3191ec6d684174",
+                "reference": "96d2253d1153bc5797301e116f3191ec6d684174",
+                "shasum": ""
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "muhiddin\\autocomplete\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Muxiddin Jumaniyazov",
+                    "email": "hellomyhp@gmail.com"
+                }
+            ],
+            "description": "yii2-autocomplete jquery ui",
+            "keywords": [
+                "autocomplete",
+                "extension",
+                "jquery-ui",
+                "muhiddin",
+                "search",
+                "widget",
+                "yii2"
+            ],
+            "time": "2017-10-26T06:42:29+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "muhiddingithub/yii2-autocomplete": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

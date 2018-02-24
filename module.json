@@ -1,0 +1,12 @@
+{
+  "id": "custom_user_tag",
+  "name": "Custom User Tag",
+  "description": "Users can edit tags of everyone.",
+  "keywords": [
+    "tag"
+  ],
+  "version": "0.0.1",
+  "humhub": {
+    "minVersion": "0.20"
+  }
+}

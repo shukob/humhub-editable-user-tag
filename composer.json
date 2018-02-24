@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/skonb/yii2-autocomplete-ajax"
+        }
+    ],
+    "require": {
+        "muhiddingithub/yii2-autocomplete": "dev-master"
+    }
+}
