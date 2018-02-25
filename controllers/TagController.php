@@ -36,10 +36,6 @@ class TagController extends Controller
         }
     }
 
-    public function actionAddCustomUserTag()
-    {
-
-    }
 
     public function actionCreate()
     {

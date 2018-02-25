@@ -1,4 +1,4 @@
-<?php
+?php
 
 use humhub\modules\user\models\User;
 use humhub\modules\user\widgets\ProfileHeaderControls;
