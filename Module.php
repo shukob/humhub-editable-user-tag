@@ -21,4 +21,14 @@ class Module extends \humhub\components\Module
 
         // custom initialization code goes here
     }
+
+    /**
+     * @inheritdoc
+     */
+    public function getNotifications()
+    {
+        return [
+            'humhub\modules\custom_user_tag\notifications\TagAddedNotification'
+        ];
+    }
 }
